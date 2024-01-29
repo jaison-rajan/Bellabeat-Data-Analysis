@@ -9,5 +9,5 @@ Leaf: Bellabeat’s classic wellness tracker can be worn as a bracelet, necklace
 Watch: This wellness watch combines the timeless look of a classic timepiece with smart technology to track user activity,  sleep, and stress. The Time watch connects to the Bellabeat app to provide you with insights into your daily wellness.
 
 
-Business Task: Identify trends based on consumer's use of bellabeat products. Then use that trends to improve bellabeat products.
+Business Task: Identify insights based on consumers use of non-bellabeat products. Then use those insights to improve bellabeat products.
 
